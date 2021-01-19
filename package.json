@@ -1,0 +1,52 @@
+{
+  "_from": "react-native-draw-on-screen",
+  "_id": "react-native-draw-on-screen@1.0.15",
+  "_inBundle": false,
+  "_integrity": "sha512-xb9h/BZ578I9OiUJXX8wL1REGXuwgtlWa5wrI5WFzyuiI9Xrz0WLOqy07Ir63xUsJPGBHXOL25D/cD/EMjmfuw==",
+  "_location": "/react-native-draw-on-screen",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-draw-on-screen",
+    "name": "react-native-draw-on-screen",
+    "escapedName": "react-native-draw-on-screen",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-draw-on-screen/-/react-native-draw-on-screen-1.0.15.tgz",
+  "_shasum": "7258b9ef1c5018e94a9e40ba90d626f1c050b29c",
+  "_spec": "react-native-draw-on-screen",
+  "_where": "/Users/netanelmichael/Desktop/sneakpic",
+  "author": {
+    "name": "techlynx"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "react-native-webview": "^9.0.2"
+  },
+  "deprecated": false,
+  "description": "React Native Expo friendly Screen Drawing Component based on HTML Canvas for Android & IOS",
+  "keywords": [
+    "react-native",
+    "react component",
+    "ios",
+    "android",
+    "canvas",
+    "expo",
+    "draw"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-draw-on-screen",
+  "private": false,
+  "scripts": {
+    "build": "npm publish"
+  },
+  "version": "1.0.15"
+}
