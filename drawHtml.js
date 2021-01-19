@@ -96,6 +96,8 @@ export const html = `<!DOCTYPE html>
                 canvasContext.beginPath();
 
                 canvasContext.moveTo(mousePos.x, mousePos.y);
+                canvasContext.lineTo(mousePos.x, mousePos.y);
+
 
                 points.push({
                     x: mousePos.x,
